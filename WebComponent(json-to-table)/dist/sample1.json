@@ -1,0 +1,9 @@
+{
+	"headers": ["Name", "Age", "CNP"],
+    "rows": 
+    [
+        ["Ioana Solovan", 23, "2234567891234"],
+        ["Paul Boca", 65, "1234567891234"],
+        ["Silviu Pop", 34, "2021085526789"]
+    ]
+}

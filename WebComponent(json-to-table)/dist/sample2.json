@@ -1,0 +1,11 @@
+{
+	"headers": ["Title", "Author(s)", "Nr of pages"],
+    "rows": 
+    [
+        ["Framework Design Guidelines: Conventions, Idioms, and Patterns for Reusable .NET Libraries", "Krzysztof Cwalina", 480],
+        ["NET Framework Standard Library Annotated Reference", "Brad Abrams", 528],
+        ["Design Patterns: Elements of Reusable Object-Oriented Software", "Erich Gamma, John Vlissides, Richard Helm, Ralph Johnson", 395],
+        ["Experience Design: A Framework for Integrating Brand, Experience, and Value", "Patrick Newbery, Kevin Farnham", 240],
+        ["Practical API design", "Jaroslav Tulach", 387]
+    ]
+}
